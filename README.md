@@ -9,6 +9,12 @@ jellyfish protocol is one of the projects that moves on financial and here there
 
 donation : **0x0429a4F2Ab51258320Be2Ff51400447d6DF66385**
 
-Every user who has donated will be categorized in receiving products from us. and the donations we receive are, ETH, ETHW, UNI, BNB, ETC.
+Every user who has donated will be categorized in receiving products from us. and the donations we receive are. 
+
+- ETH
+- ETHW
+- UNI
+- BNB
+- ETC
 
 Thank you!!!
